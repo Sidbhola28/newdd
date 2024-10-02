@@ -1,0 +1,7 @@
+F:\c# projects\CLasses\CLasses\bin\Debug\CLasses.exe.config
+F:\c# projects\CLasses\CLasses\bin\Debug\CLasses.exe
+F:\c# projects\CLasses\CLasses\bin\Debug\CLasses.pdb
+F:\c# projects\CLasses\CLasses\obj\Debug\CLasses.csprojAssemblyReference.cache
+F:\c# projects\CLasses\CLasses\obj\Debug\CLasses.csproj.CoreCompileInputs.cache
+F:\c# projects\CLasses\CLasses\obj\Debug\CLasses.exe
+F:\c# projects\CLasses\CLasses\obj\Debug\CLasses.pdb
